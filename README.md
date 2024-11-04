@@ -15,7 +15,8 @@ TBD
 
 ## Reporting issues
 
- Please report issues in the [issue tracker](https://github.com/TFFHRTP/issue-tracker/issues).
+Please report issues in the [issue tracker](https://github.com/TFFHRTP/issue-tracker/issues).
+Please file all privacy requests in the [issue tracker](https://github.com/TFFHRTP/issue-tracker/issues), and data will be deleted will be deleted within 90 days.
 
 ## Contributing
 
@@ -24,3 +25,8 @@ TBD
 ## Related projects
 
 - TBD
+
+## Privacy policy and terms of service
+
+- [Our privacy policy can be found here](https://fhrp.org/privacy-policy).
+- [Our terms of service can be found here](https://fhrp.org/terms-of-serivce).
